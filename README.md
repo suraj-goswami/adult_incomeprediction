@@ -20,3 +20,6 @@ http://www.cs.toronto.edu/~delve/data/adult/adultDetail.html
 
 Done as a Internship under Ineuron Intelligence
 https://ineuron.ai/
+
+young-adult-make-money.jpg
+![alt text](![alt text](https://github.com/[username]/[reponame]/blob/[branch]/young-adult-make-money.jpg?raw=true))
