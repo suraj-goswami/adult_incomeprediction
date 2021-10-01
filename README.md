@@ -16,3 +16,7 @@ http://www.cs.toronto.edu/~delve/data/adult/desc.html
 
 The detailed description on the dataset can be found in the original UCI documentation
 http://www.cs.toronto.edu/~delve/data/adult/adultDetail.html
+
+
+Done as a Internship under Ineuron Intelligence
+https://ineuron.ai/
