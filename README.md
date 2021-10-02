@@ -21,5 +21,6 @@ http://www.cs.toronto.edu/~delve/data/adult/adultDetail.html
 Done as a Internship under Ineuron Intelligence
 https://ineuron.ai/
 
+<b>Architecture</b>
 
 
