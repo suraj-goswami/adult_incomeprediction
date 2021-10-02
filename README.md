@@ -1,3 +1,4 @@
+# Adult Income Prediction
 <h2>Introduction</h2>
 An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
 
