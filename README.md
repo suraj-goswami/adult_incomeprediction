@@ -1,4 +1,4 @@
-<h1>Introduction</h1>
+<h2>Introduction</h2>
 An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
 
 <img src="images/young-adult-make-money.jpg" width="600">
