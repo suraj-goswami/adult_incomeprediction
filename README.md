@@ -30,7 +30,7 @@ To build a classification methodology to determine whether a person makes over 5
 <h2>Data Validation and Data Transformation </h2>
 <p>
 i) Name Validation - Validation of files name as per the DSA. We have created a regex pattern for validation. After it checks for date format and time format if these    
-   requirements are satisfied, we move such files to "Good_Data_Folder" else "Bad_Data_Folder.“
+   requirements are satisfied, we move such files to <b>"Good_Data_Folder"</b> else <b>"Bad_Data_Folder"</b>.
 
 ii) Number of Columns – Validation of number of columns present in the files, and if it doesn't match then the file is moved to "Bad_Data_Folder.“
 
@@ -66,7 +66,7 @@ ii) Insertion of files in the table - All the files in the "Good_Data_Folder" ar
 
 <h4>Clustering</h4>  KMeans algorithm is used to create clusters in the preprocessed data. The optimum number of clusters is selected by plotting the elbow plot, and for the dynamic selection of the number of clusters, we are using "KneeLocator" function. The idea behind clustering is to implement different algorithms
 The Kmeans model is trained over preprocessed data, and the model is saved for further use in prediction.
-<h4>Model Selection</h4>  After the clusters have been created, we find the best model for each cluster. We are using two algorithms, "Random Forest" and "XGBoost". For each cluster, both the algorithms are passed with the best parameters derived from GridSearch. We calculate the AUC scores for both models and select the model with the best score. Similarly, the model is selected for each cluster. All the models for every cluster are saved for use in prediction.
+<h4>Model Selection</h4>  After the clusters have been created, we find the best model for each cluster. We are using two algorithms, <b>"Random Forest"</b> and <b>"XGBoost"</b>. For each cluster, both the algorithms are passed with the best parameters derived from GridSearch. We calculate the AUC scores for both models and select the model with the best score. Similarly, the model is selected for each cluster. All the models for every cluster are saved for use in prediction.
 
 <h2>Prediction</h2>
  <ol>
