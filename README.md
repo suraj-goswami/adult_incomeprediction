@@ -1,6 +1,6 @@
 An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
 
-
+<img src="images/young-adult-make-money.jpg" width="600">
 Fields
 The dataset contains 16 columns
 Target filed: Income
@@ -21,5 +21,5 @@ http://www.cs.toronto.edu/~delve/data/adult/adultDetail.html
 Done as a Internship under Ineuron Intelligence
 https://ineuron.ai/
 
-young-adult-make-money.jpg
-![](images/young-adult-make-money.jpg)
+
+
