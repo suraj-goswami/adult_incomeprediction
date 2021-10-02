@@ -22,4 +22,4 @@ Done as a Internship under Ineuron Intelligence
 https://ineuron.ai/
 
 young-adult-make-money.jpg
-![alt text](![alt text](https://github.com/[suraj-goswami]/[adult_incomeprediction]/blob/young-adult-make-money.jpg?raw=true))
+![](images/young-adult-make-money.jpg)
